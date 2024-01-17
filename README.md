@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/thore-dahl/restaurant-reviews-sa-cw/assets/130995551/495667b1-3665-4e90-b4ab-e79594a5389a" alt="restaurant" style="width:auto;height:250px;">
-  <h1>Sentiment Estimator</h1>
+  <h1>Popularity Classifier</h1>
 </div>
 <br>
 <div align="center">
