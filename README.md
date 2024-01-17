@@ -20,5 +20,5 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> 
   </a>
   <h1></h1>
-  A project based on reviews of Kiel restaurants. Data on such restaurants, submitted to preprocessing, pursuant to the overarching NLP methodologies. Preprocessed data fueled <code>LLM (BERT)</code> fine-tuning. The fine-tuned <code>LLM</code> outperformed heuristic as well as non-optimized baselines with a balanced accuracy of 31.69% on seen data. A popularity classifier for restaurants, contingent up to its generalizability, may thus been furnished.
+  A project based on reviews of Kiel restaurants. Data on such restaurants, submitted to preprocessing, pursuant to the overarching NLP methodologies. Preprocessed data fueled <code>BERT (LLM)</code> fine-tuning. The fine-tuned <code>BERT</code> outperformed heuristic as well as non-optimized baselines with a balanced accuracy of 31.69% on seen data. A popularity classifier for restaurants, contingent up to its generalizability, may thus been furnished.
 </div>
